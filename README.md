@@ -42,6 +42,7 @@ Here’s the truth table for a 1-bit full adder:
 
 **Fig 2:Diagram of 4 Bit Adder**
 
+
 **Creating Source Codes**
 
 &emsp;&emsp;In the Terminal, type gedit <filename>.v (ex: gedit 4bitadder.v). <br>
