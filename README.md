@@ -75,7 +75,8 @@ Here’s the truth table for a 1-bit full adder:
       
 &emsp;&emsp;After this you can see the window like below <br>
 
-![Screenshot 2024-09-23 111003](https://github.com/user-attachments/assets/92074978-05f2-481a-bbfb-6c35a3dc37e3)
+![Screenshot (3)](https://github.com/user-attachments/assets/17338f4e-7138-4f7d-8a59-350c5ffd14e7)
+
 
 
 **Fig 3:Invoke the Cadence Environment**
