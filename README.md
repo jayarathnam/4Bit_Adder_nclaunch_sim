@@ -124,7 +124,8 @@ Here’s the truth table for a 1-bit full adder:
 
 &emsp;&emsp;To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. <br>
 
-![Screenshot 2024-10-05 150548](https://github.com/user-attachments/assets/9ae79c8d-dd5a-442b-adc7-592dc761824a)
+![Screenshot 2024-10-05 150827](https://github.com/user-attachments/assets/f46ac072-75f2-4ee0-8359-024a610d6c1a)
+
 
 
 
