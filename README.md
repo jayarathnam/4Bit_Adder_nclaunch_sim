@@ -206,7 +206,8 @@ Here’s the truth table for a 1-bit full adder:
 
 **Fig 12: Simulation Waveform Window**
 
-
+### Result:
+The functionality of a 4-bit adder was successfully verified using a test bench and simulated with the nclaunch tool.
 
 
 
