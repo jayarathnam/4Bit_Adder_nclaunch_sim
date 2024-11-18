@@ -124,12 +124,14 @@ Here’s the truth table for a 1-bit full adder:
 
 &emsp;&emsp;To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. <br>
 
-![Screenshot 2024-10-05 150827](https://github.com/user-attachments/assets/f46ac072-75f2-4ee0-8359-024a610d6c1a)
+![Screenshot 2024-10-05 150548](https://github.com/user-attachments/assets/11e61510-b630-4c50-adaa-3089777b7faa)
+
 
 
 
 
 **Fig 7: Nclaunch Window**
+![Screenshot 2024-10-05 150827](https://github.com/user-attachments/assets/c7aa11d2-a72b-4760-9d9c-e8a65de1ea0e)
 
 **Step 1: Compilation:– Process to check the correct Verilog language syntax and usage**
 
