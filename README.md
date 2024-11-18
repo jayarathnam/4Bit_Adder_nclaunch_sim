@@ -75,7 +75,7 @@ Here’s the truth table for a 1-bit full adder:
       
 &emsp;&emsp;After this you can see the window like below <br>
 
-![Screenshot 2024-10-05 150548](https://github.com/user-attachments/assets/245d48d0-35f0-45e3-8e38-3efedfd9af00)
+![Screenshot (3)](https://github.com/user-attachments/assets/21aebc45-25c5-474a-ab78-69db225ee266)
 
 
 
@@ -124,7 +124,7 @@ Here’s the truth table for a 1-bit full adder:
 
 &emsp;&emsp;To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. <br>
 
-![Screenshot 2024-09-23 111159](https://github.com/user-attachments/assets/dc000754-b2e3-4f89-8509-7f8856bdc429)
+![Screenshot 2024-10-05 150548](https://github.com/user-attachments/assets/9ae79c8d-dd5a-442b-adc7-592dc761824a)
 
 
 
