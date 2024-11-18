@@ -75,7 +75,8 @@ Here’s the truth table for a 1-bit full adder:
       
 &emsp;&emsp;After this you can see the window like below <br>
 
-![Screenshot (3)](https://github.com/user-attachments/assets/17338f4e-7138-4f7d-8a59-350c5ffd14e7)
+![Screenshot 2024-10-05 150548](https://github.com/user-attachments/assets/245d48d0-35f0-45e3-8e38-3efedfd9af00)
+
 
 
 
