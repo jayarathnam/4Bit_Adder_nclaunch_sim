@@ -131,7 +131,6 @@ Here’s the truth table for a 1-bit full adder:
 
 
 **Fig 7: Nclaunch Window**
-![Screenshot 2024-10-05 150827](https://github.com/user-attachments/assets/c7aa11d2-a72b-4760-9d9c-e8a65de1ea0e)
 
 **Step 1: Compilation:– Process to check the correct Verilog language syntax and usage**
 
@@ -150,8 +149,8 @@ Here’s the truth table for a 1-bit full adder:
 
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation<br>
 
-![Screenshot 2024-09-23 111159](https://github.com/user-attachments/assets/5b942729-5746-4906-81ef-510f4af8fae0)
 
+![Screenshot 2024-10-05 150827](https://github.com/user-attachments/assets/c7aa11d2-a72b-4760-9d9c-e8a65de1ea0e)
 
 **Fig 8: Compiled database in worklib**
 
