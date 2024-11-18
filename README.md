@@ -177,7 +177,7 @@ Here’s the truth table for a 1-bit full adder:
 &emsp;&emsp;After elaboration the file will come under snapshot. Select the test bench and elaborate it.<br>
 
 
-![Screenshot 2024-09-23 111159](https://github.com/user-attachments/assets/cf2a39de-395f-45fe-9b16-985a4e906df5)
+
 
 
 **Fig 9: Elaboration Launch Option**
