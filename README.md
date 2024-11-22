@@ -113,7 +113,8 @@ Here’s the truth table for a 1-bit full adder:
 
 &emsp;&emsp;&emsp;&emsp;A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure <br>
 
-![image](https://github.com/user-attachments/assets/781b297a-11e9-4140-89c5-ee3b0d15bbd4)
+![Screenshot 2024-11-18 124604](https://github.com/user-attachments/assets/19afe51b-be32-4a93-a39d-0cb2df229fdc)
+
 
 **Fig 6: Selection of Don’t include any libraries**
 
