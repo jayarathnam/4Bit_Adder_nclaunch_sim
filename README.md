@@ -99,6 +99,7 @@ Here’s the truth table for a 1-bit full adder:
 &emsp;&emsp;Select Multiple Step and then select “Create cds.lib File” .<br>
 
 &emsp;&emsp;Click the cds.lib file and save the file by clicking on Save option <br>
+![Screenshot 2024-11-18 124951](https://github.com/user-attachments/assets/aad1baab-2901-482b-ae54-51e92f423db5)
 
 
 
